@@ -1,4 +1,4 @@
-# code-c-b-n
+# Quicksort
 #include<stdio.h>
 
 void quicksort(long long a[],long long dau,long long cuoi)
